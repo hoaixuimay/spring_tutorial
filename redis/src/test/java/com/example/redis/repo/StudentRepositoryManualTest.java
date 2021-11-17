@@ -1,8 +1,3 @@
-/*
- * StudentRepositoryManualTest.java
- *
- * Copyright by Axon Ivy (Lucerne), all rights reserved.
- */
 package com.example.redis.repo;
 
 import static org.junit.Assert.assertEquals;

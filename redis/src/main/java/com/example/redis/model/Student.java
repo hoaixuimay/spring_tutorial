@@ -1,8 +1,3 @@
-/*
- * Student.java
- *
- * Copyright by Axon Ivy (Lucerne), all rights reserved.
- */
 package com.example.redis.model;
 
 import java.io.Serializable;
